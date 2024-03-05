@@ -32,8 +32,8 @@ Daher wurden keine neue Gebiete und (riesige) Quests hinzugefügt. Auch Waffen u
 Bevor die Modliste installiert werden kann, müssen folgende Schritte durchgeführt werden:
 
 1. Installiere [Visual C++ Redistributable (x86)](https://aka.ms/vs/17/release/vc_redist.x86.exe) und [Visual C++ Redistributable (x64)](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-2. Installiere die _Run desktop apps_ Version von [Microsoft .Net 6.0 Runtime (x64)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)﻿ und [Microsoft .Net 7.0 Runtime (x64)﻿](https://dotnet.microsoft.com/en-us/download/dotnet/7.0/runtime)
-﻿3. Stelle sicher, dass du eine neue Installation von Skyrim Version 1.6.1170 auf Steam hast.
+2. Installiere die _Run desktop apps_ Version von [Microsoft .Net 6.0 Runtime (x64)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)﻿ und [Microsoft .Net 7.0 Runtime (x64)﻿](https://dotnet.microsoft.com/en-us/download/dotnet/7.0/runtime).
+3. Stelle sicher, dass du eine neue Installation von Skyrim Version 1.6.1170 auf Steam hast.
 Skyrim muss komplett frisch installiert werden! Auch der Skyrim Special Edition Order in \Documents\My Games muss gelöscht werden!
 Außerdem darf Skyrim NICHT in "_Programme_" oder in Windows-Standardordnern wie "_Desktop_" oder "_Downloads_" installiert werden. Am besten ist es, wenn du eine andere Partition nutzt.
 4. Nach der Neuinstallation Skyrim einmal starten und _Creations_ Menü aufrufen und die vier SE Creations herunterladen: Fishing﻿, Survival Mode﻿, Saints & Seducers﻿, Rare Curios﻿. Dann Skyrim wieder beenden.

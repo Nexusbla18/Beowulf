@@ -98,11 +98,12 @@ Neben einigen anderen Dingen hat Wabbajack auch Mod Organizer 2 installiert. Sky
 Bevor du ein Update durchführst, prüfe bitte das Changelog und **sichere deine Spielstände**. Nach bestimmten Updates musst du vielleicht ein neues Spiel anfangen.
 
 Generell gilt:
-**Full Update** x.0 (2.0, 3.0, etc.) Update erfordert ein neues Spiel.
-**Major Update** x.x (2.1, 2.2 usw.) Update erfordert ein neues Spiel.
-**Minor Update** x.x.x (2.1.1, 2.1.2) Update kann auf ein laufendes Spiel angewendet werden.
+- **Full Update** x.0 (2.0, 3.0, etc.) Update erfordert ein neues Spiel.
+- **Major Update** x.x (2.1, 2.2 usw.) Update erfordert ein neues Spiel.
+- **Minor Update** x.x.x (2.1.1, 2.1.2) Update kann auf ein laufendes Spiel angewendet werden.
  
-Ein Update ist wie eine Neuinstallation der Liste. Kontrolliere, ob die Pfade übereinstimmen und aktiviere in Wabbajack die Schaltfläche `Overwrite Installation`. Hinweis: **Alle Mods, die du manuell hinzugefügt hast, werden bei der Aktualisierung gelöscht!** Dein Downloads Ordner bleibt davon aber unberührt.
+Ein Update ist wie eine Neuinstallation der Liste. Kontrolliere, ob die Pfade übereinstimmen und aktiviere in Wabbajack die Schaltfläche `Overwrite Installation`.\
+Hinweis: **Alle Mods, die du manuell hinzugefügt hast, werden bei der Aktualisierung gelöscht!** Dein Downloads Ordner bleibt davon aber unberührt.
 
 
 ## Spenden

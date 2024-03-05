@@ -36,7 +36,7 @@ Bevor die Modliste installiert werden kann, müssen folgende Schritte durchgefü
 3. Stelle sicher, dass du eine neue Installation von Skyrim Version 1.6.1170 auf Steam hast.
 Skyrim muss komplett frisch installiert werden! Auch der Skyrim Special Edition Order in \Documents\My Games muss gelöscht werden!
 Außerdem darf Skyrim NICHT in "_Programme_" oder in Windows-Standardordnern wie "_Desktop_" oder "_Downloads_" installiert werden. Am besten ist es, wenn du eine andere Partition nutzt.
-4. Nach der Neuinstallation Skyrim einmal starten und _Creations_ Menü aufrufen und die vier SE Creations herunterladen: Fishing﻿, Survival Mode﻿, Saints & Seducers﻿, Rare Curios﻿. Dann Skyrim wieder beenden.
+4. Nach der Neuinstallation Skyrim einmal starten und _Creations_ Menü aufrufen und die vier SE Creations herunterladen: [Fishing](https://creations.bethesda.net/de/skyrim/details/5615/Fishing)﻿, [Survival Mode](https://creations.bethesda.net/de/skyrim/details/5618/Survival_Mode)﻿, [Saints & Seducers](https://creations.bethesda.net/de/skyrim/details/5619/Saints___Seducers)﻿, [Rare Curios](https://creations.bethesda.net/de/skyrim/details/5617/Rare_Curios)﻿. Dann Skyrim wieder beenden.
 5. [Skyrim Special Edition: Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)﻿﻿ auf Steam herunterladen
 6. (optional) ﻿Deaktiviere die [Auto-Update Funktion](https://www.youtube.com/watch?v=GyOFgSwWd7I)
 

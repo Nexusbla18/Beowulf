@@ -1,4 +1,5 @@
-# Beowulf
+![Beowulf Banner](https://i.postimg.cc/tgypqz24/Beowulf-banner.jpg)
+
 Beowulf ist eine von Grund auf neu erstellte Modliste für High-End PCs mit Fokus auf grafischer Aufwertung, Immersion und etwas Gameplay-Verbesserungen. Mein Ziel war es, ein lore-freundliches Vanilla+ Erlebnis zu schaffen, das optisch einem Next-Gen Spiel nahe kommt und den "Geist von Skyrim" zu erhalten.
 Daher wurden keine neue Gebiete und (riesige) Quests hinzugefügt. Auch Waffen und Rüstungen wurden nur hinzugefügt, wenn diese in das Look&Feel des Spiels passen.
 
@@ -57,22 +58,25 @@ Große Modlisten benötigen viel Arbeitsspeicher. Wenn nicht genug Speicher vorh
 
 ##  Installation
 
-Downloade und installiere die aktuellste Version von Wabbajack. Installiere das Programm in einem Ordner in der Nähe oder im Stammverzeichnis deines Laufwerks, z. B. D:\Wabbajack. Wabbajack darf nicht in "Programme" oder in Windows-Standardordnern wie "Desktop" oder "Downloads" installiert werden.
+Downloade und installiere die [aktuellste Version von Wabbajack](https://www.wabbajack.org/).
+Installiere das Programm in einem Ordner in der Nähe oder im Stammverzeichnis deines Laufwerks, z. B. `D:\Wabbajack`. Wabbajack darf nicht in "_Programme_" oder in Windows-Standardordnern wie "_Desktop_" oder "_Downloads_" installiert werden.
 
 Jetzt kann Beowulf installiert werden:
 
-Erstelle einen Ordner in der Nähe des Stammverzeichnisses deines Laufwerks namens Beowulf (z.B. D:\Modlists\Beowulf).
-Downloade die Main File von dieser Nexus Seite und speichere die Datei in deinem Wabbajack Ordner ab. Entpacke das Archiv.
-Öffne Wabbajack und wähle Install from Disk aus.
-Bei Target Modlist auf die drei Punkte klicken und die in Schritt 2 entpackte Beowulf.wabbajack auswählen.
-Lege als Installationsordner (Modlist Installation Location) den Order aus Schritt 1 fest.
-Normalerweise sollte der Downloads Ordner (Resource Download Location) automatisch gesetzt werden. Falls nicht, erzeuge einen Downloads Ordner unter den im Schritt 1 festgelegten Pfad (also z.B. D:\Modlists\Beowulf\Downloads) und verweise auf diesen.
-Klicke auf den Start Button.
-Wenn du keinen Nexus Premium Account hast, musst du MANUELL jeden Mod-Download bestätigen!
-Beowulf hat ungefähr 1600 Mods. Daher empfehle ich dringend einen Nexusmods Premium Account.
-Warte, bis die Installation abgeschlossen ist. Je nach Internet-Geschwindigkeit kann dies mehrere Stunden dauern.
-Füge alle Beowulf Ordner als Ausnahme in dein Anti-Virus Programm hinzu. AV Programme flaggen MO2 fälschlicherweise (siehe hier﻿) wegen des Virtuellen File Systems.
+1. Starte die `Wabbajack.exe`
+2. Wähle `Browse Modlists` aus
+3. Gib oben im Suchfeld `Beowulf` ein
+4. Klicke auf den Download Pfeil.\
+   Du wirst automatisch auf den nächsten Screen weitergeleitet, wenn der Download fertig ist.
+5. Setze als `Installation Location` einen Ordner in der Nähe des Stammverzeichnisses deines Laufwerks (z.B. D:\Modlists\Beowulf).\
+   Achte wieder darauf, dass du - wie bei Wabbajack - keinen geschützen Ordner benutzt.
+6. Klicke auf den `Play` Button.\
+   Wenn du keinen Nexus Premium Account hast, musst du MANUELL jeden Mod-Download bestätigen!
+   Beowulf hat ungefähr 1600 Mods. Daher empfehle ich dringend einen Nexusmods Premium Account.
+7. Warte, bis die Installation abgeschlossen ist. Je nach Internet-Geschwindigkeit kann dies mehrere Stunden dauern.
+8. Füge den Wabbajack und Beowulf Ordner als Ausnahme in dein Anti-Virus Programm hinzu. AV Programme flaggen MO2 fälschlicherweise (siehe [hier](https://www.nexusmods.com/skyrimspecialedition/mods/6194)﻿) wegen des Virtuellen File Systems.
 
+#### Probleme mit Wabbajack
 Es gibt viele verschiedene Szenarien, in denen Wabbajack mit einem Fehler abbricht. Das kann verschiedene Ursachen haben.
 Einige Dateien können sehr groß sein oder werden nicht auf Nexusmods gehostet.
 Ich empfehle, Wabbajack zu schließen und neu zu starten, bevor du etwas postest. Wabbajack macht dort weiter, wo es aufgehört hat.
@@ -83,11 +87,10 @@ Versuche, die Option "Netzwerk-Workaround" in den Wabbajack-Einstellungen zu akt
 
 Neben einigen anderen Dingen hat Wabbajack auch Mod Organizer 2 installiert. Skyrim wird nun nicht mehr über Steam, sondern ausschließlich über Mod Organizer 2 gestartet.
 
-Öffne den Installationsordner und starte **ModOrganizer.exe**
-Es kann sein, dass sich Dialoge öffnen (.nxm Links mit MO2 öffnen; Game Registry Path updaten). Beides sollte mit Yes bestätigt werden.
-Überprüfe, ob das Dropdown-Feld auf der rechten Seite auf `Beowulf starten [SKSE]` eingestellt ist und drücke dann auf Run.
-Du kannst auch einen Desktop Shortcut erstellen, indem du **Shortcut** auswählst.
-
+1. Öffne den Installationsordner und starte **ModOrganizer.exe**
+2. Es kann sein, dass sich Dialoge öffnen (.nxm Links mit MO2 öffnen; Game Registry Path updaten). Beides sollte mit Yes bestätigt werden.
+3. Überprüfe, ob das Dropdown-Feld auf der rechten Seite auf `Beowulf starten [SKSE]` eingestellt ist und drücke dann auf Run.
+4. Du kannst auch einen Desktop Shortcut erstellen, indem du **Shortcut** auswählst.
 
 
 ##  Updaten der Modliste
@@ -100,3 +103,22 @@ Generell gilt:
 **Minor Update** x.x.x (2.1.1, 2.1.2) Update kann auf ein laufendes Spiel angewendet werden.
  
 Ein Update ist wie eine Neuinstallation der Liste. Kontrolliere, ob die Pfade übereinstimmen und aktiviere in Wabbajack die Schaltfläche `Overwrite Installation`. Hinweis: **Alle Mods, die du manuell hinzugefügt hast, werden bei der Aktualisierung gelöscht!** Dein Downloads Ordner bleibt davon aber unberührt.
+
+
+## Spenden
+
+> "Ich habe geschuftet wie ein Irrer, damit ich Euch diese feinen Waren anbieten kann." - Tashun der Bergmann
+
+Es hat sehr viel Zeit und Arbeit gekostet, diese Collection zu erstellen. Was zuerst als kleines Nebenprojekt begann, hat letztendlich über 1.5 Jahre in Anspruch genommen.
+Hauptproblem war (und ist), dass es für viele Mods keine deutsche Übersetzung gab/gibt. Viele Mods musste ich daher selbst übersetzen.
+Auch Patches sind nicht immer vorhanden, da diese auf bestimmte Mod-Kombinationen angepasst sind. Zudem werden einige Mods nicht mehr geupdated, wodurch Bugs entstehen können.
+Bethesda hat in dieser Zeit drei Updates herausgebracht, die meine Modliste für Monate unspielbar gemacht haben.
+
+Es war (und ist) daher eine Menge Arbeit, Übersetzungen anzufertigen, Patches zu erstellen, Bugs zu beheben und die Modliste zu pflegen. Ich mache das alles alleine und in meiner Freizeit, neben Job und Familie.
+
+Wenn ihr mich unterstützen wollt, freue ich mich über eine jede noch so kleine Spende:
+
+<a href='https://ko-fi.com/X8X8P2AUR' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee' />
+
+Natürlich freue ich mich auch über ein einfaches Dankeschön, konstruktives Feedback, oder ein paar Screenshots/Videos aus der Modliste :)
+

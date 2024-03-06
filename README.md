@@ -65,16 +65,17 @@ Jetzt kann Beowulf installiert werden:
 
 1. Starte die `Wabbajack.exe`
 2. Wähle `Browse Modlists` aus
-3. Gib oben im Suchfeld `Beowulf` ein
-4. Klicke auf den Download Pfeil.\
+3. Klicke oben auf `Show Unofficial Lists`
+4. Gib oben im Suchfeld `Beowulf` ein
+5. Klicke auf den Download Pfeil.\
    Du wirst automatisch auf den nächsten Screen weitergeleitet, wenn der Download fertig ist.
-5. Setze als `Installation Location` einen Ordner in der Nähe des Stammverzeichnisses deines Laufwerks (z.B. D:\Modlists\Beowulf).\
+6. Setze als `Installation Location` einen Ordner in der Nähe des Stammverzeichnisses deines Laufwerks (z.B. D:\Modlists\Beowulf).\
    Achte wieder darauf, dass du - wie bei Wabbajack - keinen geschützen Ordner benutzt.
-6. Klicke auf den `Play` Button.\
+7. Klicke auf den `Play` Button.\
    Wenn du keinen Nexus Premium Account hast, musst du MANUELL jeden Mod-Download bestätigen!
    Beowulf hat ungefähr 1600 Mods. Daher empfehle ich dringend einen Nexusmods Premium Account.
-7. Warte, bis die Installation abgeschlossen ist. Je nach Internet-Geschwindigkeit kann dies mehrere Stunden dauern.
-8. Füge den Wabbajack und Beowulf Ordner als Ausnahme in dein Anti-Virus Programm hinzu. AV Programme flaggen MO2 fälschlicherweise (siehe [hier](https://www.nexusmods.com/skyrimspecialedition/mods/6194)﻿) wegen des Virtuellen File Systems.
+8. Warte, bis die Installation abgeschlossen ist. Je nach Internet-Geschwindigkeit kann dies mehrere Stunden dauern.
+9. Füge den Wabbajack und Beowulf Ordner als Ausnahme in dein Anti-Virus Programm hinzu. AV Programme flaggen MO2 fälschlicherweise (siehe [hier](https://www.nexusmods.com/skyrimspecialedition/mods/6194)﻿) wegen des Virtuellen File Systems.
 
 #### Probleme mit Wabbajack
 Es gibt viele verschiedene Szenarien, in denen Wabbajack mit einem Fehler abbricht. Das kann verschiedene Ursachen haben.

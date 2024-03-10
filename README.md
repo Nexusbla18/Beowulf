@@ -90,8 +90,10 @@ Neben einigen anderen Dingen hat Wabbajack auch Mod Organizer 2 installiert. Sky
 
 1. Öffne den Installationsordner und starte **ModOrganizer.exe**
 2. Es kann sein, dass sich Dialoge öffnen (.nxm Links mit MO2 öffnen; Game Registry Path updaten). Beides sollte mit Yes bestätigt werden.
-3. Überprüfe, ob das Dropdown-Feld auf der rechten Seite auf `Beowulf starten [SKSE]` eingestellt ist und drücke dann auf Run.
-4. Du kannst auch einen Desktop Shortcut erstellen, indem du **Shortcut** auswählst.
+3. Jetzt musst du noch die CPU Affinity einstellen. Dazu oben auf das Puzzle klicken und "Set CPU Affinity" auswählen:
+![Beowulf Banner](./Affinity.jpg)
+4. Überprüfe, ob das Dropdown-Feld auf der rechten Seite auf `Beowulf starten [SKSE]` eingestellt ist und drücke dann auf Run.
+5. Du kannst auch einen Desktop Shortcut erstellen, indem du **Shortcut** auswählst.
 
 
 ##  Updaten der Modliste

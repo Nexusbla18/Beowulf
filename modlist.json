@@ -13,27 +13,28 @@
       "lore-friendly",
       "Vanilla+",
       "Skyrim Special Edition",
-      "Deutsch"
+      "Deutsch",
+      "German"
     ],
     "nsfw": false,
     "image_contains_title": true,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Nexusbla18/Beowulf/main/Beowulf_flag.jpg",
       "readme": "https://raw.githubusercontent.com/Nexusbla18/Beowulf/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Beowulf.wabbajack_59664728-192b-4190-8c16-dfaceeb4dd83",
+      "download": "https://authored-files.wabbajack.org/Beowulf.wabbajack_949569f3-8cba-4f4a-8322-c03e6eeae21a",
       "machineURL": "beowulf",
       "discordURL": "None"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "3K4YBOQsLwk=",
-      "Size": 374822673,
-      "NumberOfArchives": 1729,
-      "SizeOfArchives": 156249867519,
-      "NumberOfInstalledFiles": 93014,
-      "SizeOfInstalledFiles": 222440308008
+      "Hash": "M4zy26kEJOk=",
+      "Size": 533570689,
+      "NumberOfArchives": 1756,
+      "SizeOfArchives": 137300764890,
+      "NumberOfInstalledFiles": 102351,
+      "SizeOfInstalledFiles": 191134378161
     },
     "version": "0.4.0"
   }

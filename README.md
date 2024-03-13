@@ -12,7 +12,7 @@ Daher wurden keine neue Gebiete und (riesige) Quests hinzugefügt. Auch Waffen u
 - Rudy ENB mit Obsidian Weathers and Seasons
 - Lux + Lux Via + Lux Orbis
 - Überarbeitung von Städten und Interieur (JKs, COTN, The Great Cities/Towns, etc.)
-- Dichte Wälder und malerische Landschaften (Fabled Forests, Vinland Grass)
+- Dichte Wälder und malerische Landschaften (Fabled Forests, Nolvus Grass Mashup)
 - Lore-freundliche Änderungen der Rassen (Aetherius)
 - Leicht überarbeitetes Skill System (Adamant, Scion, Manbeast)
 - Überarbeitetes Wirtschaftssystem (Evolving Value Economy)

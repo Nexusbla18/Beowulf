@@ -13,6 +13,7 @@
       "lore-friendly",
       "Vanilla+",
       "Skyrim Special Edition",
+      "Anniversary Edition",
       "Deutsch",
       "German"
     ],
@@ -36,6 +37,6 @@
       "NumberOfInstalledFiles":98130,
       "SizeOfInstalledFiles":182719201701
     },
-    "version": "0.5.2"
+    "version": "0.6.0"
   }
 ]

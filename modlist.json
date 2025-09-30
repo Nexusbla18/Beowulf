@@ -19,7 +19,7 @@
     ],
     "nsfw": false,
     "image_contains_title": true,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Nexusbla18/Beowulf/main/Beowulf_flag.jpg",
@@ -37,6 +37,6 @@
       "NumberOfInstalledFiles":134033,
       "SizeOfInstalledFiles":229785520084
     },
-    "version": "1.1.1"
+    "version": "2.0"
   }
 ]

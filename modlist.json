@@ -19,24 +19,24 @@
     ],
     "nsfw": false,
     "image_contains_title": true,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Nexusbla18/Beowulf/main/Beowulf_flag.jpg",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/112952",
-      "download": "https://authored-files.wabbajack.org/Beowulf.wabbajack_4823ec8f-68f1-4e73-9242-f62c807c32e1",
+      "download": "https://authored-files.wabbajack.org/Beowulf.wabbajack_cf6d8d13-454f-4204-aa8e-625b5084b9a4",
       "machineURL": "beowulf",
       "discordURL": "None"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash":"DEu2GsyuB3w=",
-      "Size":250993248,
-      "NumberOfArchives":2350,
-      "SizeOfArchives":198214508915,
-      "NumberOfInstalledFiles":129590,
-      "SizeOfInstalledFiles":127932102827
+      "Hash":"xrzVPH6qMG0=",
+      "Size":303079279,
+      "NumberOfArchives":2348,
+      "SizeOfArchives":198153601844,
+      "NumberOfInstalledFiles":129587,
+      "SizeOfInstalledFiles":127922767723
     },
-    "version": "2.0.1"
+    "version": "2.0.1-hotfix2"
   }
 ]

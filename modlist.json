@@ -24,18 +24,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Nexusbla18/Beowulf/main/Beowulf_flag.jpg",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/112952",
-      "download": "https://authored-files.wabbajack.org/Beowulf.wabbajack_aa6c9995-1219-42f0-ba19-46f77475bc27",
+      "download": "https://authored-files.wabbajack.org/Beowulf.wabbajack_de0b394a-ab13-480a-8594-cee20643abd3",
       "machineURL": "beowulf",
       "discordURL": "None"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash":"FTg1QTSHqfI=",
-      "Size":319137653,
-      "NumberOfArchives":2278,
-      "SizeOfArchives":199274849176,
-      "NumberOfInstalledFiles":135006,
-      "SizeOfInstalledFiles":129697538599
+      "Hash":"VNviohEcVgI=",
+      "Size":319135207,
+      "NumberOfArchives":2277,
+      "SizeOfArchives":199274837646,
+      "NumberOfInstalledFiles":135005,
+      "SizeOfInstalledFiles":129697528769
     },
     "version": "2.0.2"
   }

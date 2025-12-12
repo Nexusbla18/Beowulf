@@ -6,25 +6,25 @@ Daher wurden keine neue Gebiete und (riesige) Quests hinzugefügt. Auch Waffen u
 ## Hauptfeatures
 
 - Immersiv und lore-freundlich (aber ohne Survival Mode)
-- Keine Sexmods
-- Einsatz von HD Texturen inkl. Parallax (überwiegend 4K)
+- Streamer-freundlich: Vanilla-Musik und keine Sexmods
+- Einsatz von HD Texturen inkl. Parallax
 - High Poly Head NPCs
 - Rudy ENB mit Obsidian Weathers and Seasons
 - Lux + Lux Via + Lux Orbis
 - Überarbeitung von Städten und Interieur (JKs, COTN, The Great Cities/Towns, etc.)
-- Dichte Wälder und malerische Landschaften (Fabled Forests, Nolvus Grass Mashup)
+- Dichte Wälder und malerische Landschaften (Tree Diversity Project, Nolvus Grass Mashup)
 - Lore-freundliche Änderungen der Rassen (Aetherius)
-- Leicht überarbeitetes Skill System (Adamant, Scion, Manbeast)
-- Überarbeitetes Wirtschaftssystem (Evolving Value Economy)
+- Leicht überarbeitetes Skill System (Adamant, Scion, Growl)
+- Überarbeitung des Kampfsystems (Valhalla Combat)
 - Kann sowohl in 1st Person als auch in 3rd Person Perspektive gespielt werden
-- Die erste und einzige deutsche Modliste für Wabbajack :)
+- Die erste deutsche Modliste für Wabbajack :)
 
 
 ## Voraussetzungen
 
 - **Deutsches** Skyrim SE **1.6.1170** auf Steam﻿. Keine Unterstützung für VR, XBOX oder GOG!
 - Nexus PREMIUM Account (DRINGEND EMPFOHLEN, wenn du nicht ~1600 Mods manuell installieren willst)
-- **~350 GB** freier **SSD** Speicherplatz: 130 GB Download Ordner + 200 GB Modliste
+- **~290 GB** freier (M.2) **SSD** Speicherplatz: 170 GB Download Ordner + 120 GB Modliste
 
 
 ## Vorbereitungen
